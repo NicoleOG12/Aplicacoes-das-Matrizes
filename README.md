@@ -32,11 +32,11 @@ A → B, B → C, A → A (auto-laço)
 
 - **a)** Matriz de adjacência 3×3:
 
-|   | A | B | C |
-|---|---|---|---|
-| A | 1 | 1 | 0 |
-| B | 0 | 0 | 1 |
-| C | 0 | 0 | 0 |
+        |   | A | B | C |
+        |---|---|---|---|
+        | A | 1 | 1 | 0 |
+        | B | 0 | 0 | 1 |
+        | C | 0 | 0 | 0 |
 
 - **b)** Elemento da diagonal que indica auto-laço:  
   Posição [0][0] = 1.
@@ -49,7 +49,6 @@ A → B, B → C, A → A (auto-laço)
 ## 🖼️ Exercício 3 — Processamento de Imagens
 
 Matriz de pixels (4×4):
-
 [ 10 10 10 10 ]
 [ 10 100 100 10 ]
 [ 10 100 100 10 ]
