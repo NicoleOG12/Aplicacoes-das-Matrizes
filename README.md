@@ -5,6 +5,9 @@
 </p>
 
 ---
+## 👩‍🎓Aluna
+- [Nicole Oliveira Gonçalves](https://github.com/NicoleOG12)
+---
 
 ## 🧮 Exercício 1 — Sistemas Lineares
 
